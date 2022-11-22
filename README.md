@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamed A. Gamal @m3talliz3d
-- 👀 I’m interested in creating scripts/tool to automated the daily boring tasks & as a hobby, Security, specifically Pentest. My reference is [TheCyberMentor](https://www.thecybermentor.com)
+- 👀 I’m interested in learning to creat scripts/tools to automate the daily boring tasks & as a hobby, Security, specifically Pentest. My reference is [TheCyberMentor](https://www.thecybermentor.com)
 - 🌱 I’m currently learning DevOps via [Sprints DevOps BootCamp](https://programs.sprints.ai/p/devops-bootcamp) & [KodeKloud](https://kodekloud.com)
 - 📫 How to reach me via LinkedIn https://www.linkedin.com/in/mg4mal/
 
