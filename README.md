@@ -1,4 +1,4 @@
-<img align="center" width="800" src="https://digiapricus.com/assets/images/devops.gif" >
+<img align="left" width="250" src="https://cdn.dribbble.com/users/329021/screenshots/2348243/devops-animation-dribbble.gif" >
 
 <h1 align="center">Hi 👋, I'm Mohamed A. Gamal</h1>
 <h3 align="center">Ex-Implementation Engineer, Ex-VMware, 7+ Years Experience, skilled in different tech Domains, Currently seeking Devops path and very eager to explore it!</h3>
