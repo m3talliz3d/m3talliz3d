@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3talliz3d&label=Profile%20views&color=f5d184&style=flat" alt="m3talliz3d" /> </p>
 
-- 🔭 I’m currently working on [Sprints Capstone Project (will get public soon)](https://github.com/m3talliz3d/Sprints_Capstone-Final-Project)
+- 🔭 I’m currently working on [Sprints Capstone Project](https://github.com/m3talliz3d/Sprints_Capstone-Final-Project)
 
 - 🌱 I’m currently learning **Terraform, K8s, Ansible, Jenkins**
 
